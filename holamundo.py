@@ -1,3 +1,3 @@
 def holamundo():
-	printf 'holamundo'
+	print "hola mundo"
 
